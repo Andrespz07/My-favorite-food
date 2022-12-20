@@ -1,0 +1,10 @@
+footer {
+    border: solid 2px;
+    margin: 5%;
+}
+
+footer h3 {
+    text-align: center;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%
+}

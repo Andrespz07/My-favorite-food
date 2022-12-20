@@ -1,0 +1,17 @@
+aside {
+    border: solid 2px;
+    border-radius: 13px;
+    width: 10%;
+    padding: 1%;
+}
+
+aside h3 {
+    text-align: center;
+}
+
+.recuadro {
+    border: black solid 1px;
+    border-radius: 5px;
+    margin: 4%;
+    padding: 1%;
+}

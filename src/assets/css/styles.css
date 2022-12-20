@@ -1,5 +1,6 @@
-@import url(reset.css);
-@import url(body.css);
-@import url(header.css);
-@import url(main.css);
-@import url(footer.css);
+@import "reset.css";
+@import "body.css";
+@import "header.css";
+@import "main.css";
+@import "aside.css";
+@import "footer.css";

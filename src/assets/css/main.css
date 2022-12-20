@@ -1,0 +1,39 @@
+main {
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: left;
+    flex-wrap: wrap;
+}
+
+#foto {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 70%;
+}
+
+#ingredientes-section {
+    border: solid 2px;
+    padding: 1%;
+    width: 50%;
+    height: 60%;
+    margin: 2% 3% 4% 2%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    align-content: flex-start;
+}
+
+#preparacion-section {
+    border: solid 2px;
+    width: 50%;
+    height: 60%;
+    margin: 2% 3% 4% 2%;
+    padding: 1%;
+    display: flex;
+    flex-direction: column;
+   
+}
